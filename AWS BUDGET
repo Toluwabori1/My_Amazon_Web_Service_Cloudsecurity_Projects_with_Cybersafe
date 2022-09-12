@@ -1,7 +1,11 @@
-AWS Budgets manages and controls your billing on AWS and use the alerts when you exceed
+AWS Budgets manages and controls your billing on AWS, it is the simplest way on AWS to track your spend.
+The alerts are also set such that through your set threshold, whenever you have exceeded or are about to exceed your budget, you will recieve a notification through email or any other means.
+It can be set to monthly, annually etc.
 
-sTEPS TO THIS
+STEPS TO THIS
 Go to AWS budgets
 Click on Bugdets
 Create new budget
 Set your threshold
+Configure your alerts, input your mail address
+Select other options if required and complete the process of creating the budget
