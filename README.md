@@ -2,10 +2,10 @@
 
 <sub>My first project on AWS</sub>
 
-Go to AWS budgets
-Click on Bugdets
-Create new budget
-Set your threshold
+## Go to AWS budgets
+#Click on Bugdets
+# Create new budget
+# Set your threshold
 
-![DSC_2416-01](https://user-images.githubusercontent.com/113180880/189340443-bdd86c76-b236-4975-a0e8-4b170d382d3c.jpeg)
+<img width="955" alt="AWS Budgets1" src="https://user-images.githubusercontent.com/113180880/189613220-5a872aa5-f76f-43fc-a832-73991d080389.PNG">
 
