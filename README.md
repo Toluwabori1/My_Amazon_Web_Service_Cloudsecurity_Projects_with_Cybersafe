@@ -13,9 +13,9 @@
 
 <img width="936" alt="AWS User Creation 2" src="https://user-images.githubusercontent.com/113180880/189702019-4dc8adaa-d506-43c8-b7cf-8520cc8f9595.PNG">
 
-<img width="936" alt="AWS User Creation 2" src="https://user-images.githubusercontent.com/113180880/189702114-b02a2966-a812-4829-ace9-b312684a848e.PNG">
-
 <img width="933" alt="AWS User Group Created" src="https://user-images.githubusercontent.com/113180880/189702569-a0b7a75a-5c76-463c-bae0-5461452d4825.PNG">
+
+<img width="933" alt="Policy Creation" src="https://user-images.githubusercontent.com/113180880/189706313-e5dd7f00-60bd-401b-a024-fa611d0bf5c8.PNG">
 
 <img width="956" alt="AWS User Created" src="https://user-images.githubusercontent.com/113180880/189702433-1bf26881-da9c-4b2a-b403-ac10e39d5e9f.PNG">
 
